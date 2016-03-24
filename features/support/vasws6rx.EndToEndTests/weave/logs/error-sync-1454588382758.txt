@@ -1,0 +1,81 @@
+1420070650332	Sync.Service	INFO	Loading Weave 1.45.0
+1420070650333	Sync.Engine.Clients	DEBUG	Engine initialized
+1420070650334	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1420070650339	Sync.Engine.Bookmarks	DEBUG	Engine initialized
+1420070650341	Sync.Engine.Forms	DEBUG	Engine initialized
+1420070650345	Sync.Engine.History	DEBUG	Engine initialized
+1420070650348	Sync.Engine.Passwords	DEBUG	Engine initialized
+1420070650349	Sync.Engine.Prefs	DEBUG	Engine initialized
+1420070650351	Sync.Engine.Tabs	DEBUG	Engine initialized
+1420070650351	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1420070650354	Sync.Engine.Addons	DEBUG	Engine initialized
+1420070650355	Sync.Service	INFO	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:43.0) Gecko/20100101 Firefox/43.0
+1420070650356	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1420070650357	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1420070650357	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1420070650357	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1420070650357	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1420070650383	browserwindow.syncui	DEBUG	observed: weave:service:ready
+1420070650383	browserwindow.syncui	DEBUG	observed: weave:service:ready
+1420070650384	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1420070650384	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1420070650385	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1420070650386	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1420070650386	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1420070650388	Sync.Tracker.Clients	WARN	Changed IDs file clients contains non-object value.
+1420070650391	Sync.Tracker.Bookmarks	WARN	Changed IDs file bookmarks contains non-object value.
+1420070650392	Sync.Tracker.Forms	WARN	Changed IDs file forms contains non-object value.
+1420070650393	Sync.Tracker.History	WARN	Changed IDs file history contains non-object value.
+1420070650394	Sync.Tracker.Passwords	WARN	Changed IDs file passwords contains non-object value.
+1420070650395	Sync.Tracker.Addons	WARN	Changed IDs file addons contains non-object value.
+1420070734048	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1420070734050	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1420070752630	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1420070752632	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510123766	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510123767	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510268780	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510268781	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510389874	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510389875	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510395273	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454510395273	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454565773379	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1454580512933	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1454583112193	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454583112194	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454583352066	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454583352067	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454583669545	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454583669547	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1454583739852	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1454583754124	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1454583765089	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1454583769867	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1454583775087	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1454583780886	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1454584771342	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1454584782735	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1454588382750	Sync.Service	DEBUG	User-Agent: Firefox/43.0.4 FxSync/1.45.0.20160105164030.
+1454588382750	Sync.Service	INFO	Starting sync at 2016-02-04 12:19:42
+1454588382751	Sync.Service	DEBUG	In sync: should login.
+1454588382751	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1454588382751	browserwindow.syncui	DEBUG	onActivityStart with numActive: 0
+1454588382752	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1454588382752	browserwindow.syncui	DEBUG	onActivityStart with numActive: 0
+1454588382753	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1454588382753	browserwindow.syncui	DEBUG	onActivityStart with numActive: 0
+1454588382753	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1454588382754	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1454588382754	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1454588382754	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1454588382754	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1454588382755	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1454588382755	browserwindow.syncui	DEBUG	onActivityStop with numActive: 1
+1454588382756	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1454588382756	browserwindow.syncui	DEBUG	onActivityStop with numActive: 1
+1454588382757	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1454588382757	browserwindow.syncui	DEBUG	onActivityStop with numActive: 1
+1454588382757	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1454588382757	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1454588382758	Sync.ErrorHandler	ERROR	Sync encountered a login error

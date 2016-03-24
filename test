@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd "$( dirname "$0" )"
+
+bundle install --path .gems
+echo $profile
+
+if ["$profile" = ""]
+  then
+  exec bundle exec cucumber
+   else
+  exec bundle exec cucumber --profile $profile "$@"
+fi
